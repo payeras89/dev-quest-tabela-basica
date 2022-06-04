@@ -1,0 +1,25 @@
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+.texto-produto{
+    margin: 20px;
+}
+
+.tabela {
+margin: 20px;
+font-size: 20px;
+}
+
+.texto{
+    color: #ffffff;
+    margin: 5px;
+    padding: 8px;
+}
+
+.background-tabela {
+  background-color: #424250;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
